@@ -28,7 +28,7 @@ A 32-operation Arithmetic Logic Unit (ALU) designed in structural VHDL and deplo
 
 | File | Description |
 |------|-------------|
-| `PBL_070.vhd` | Top-level ALU entity (structural VHDL) |
+| `PBL_062.vhd` | Top-level ALU entity (structural VHDL) |
 | `testbench.vhd` | VHDL testbench — cycles all 32 opcodes |
 | `constraints.ucf` | Pin constraint file (LVCMOS33, Nexys4 DDR) |
 
